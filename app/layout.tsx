@@ -23,7 +23,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={`${clashGrotesk.className} bg-background`}>{children}</body>
+      <body className={`${clashGrotesk.className} dark:bg-background dark:text-white`}>{children}</body>
     </html>
   );
 }

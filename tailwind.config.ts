@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         gray: '#727272',
         background: '#1C1C1C',
+        border: '#232627',
       },
     },
   },
